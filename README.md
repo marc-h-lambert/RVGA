@@ -1,4 +1,4 @@
-# The recusrive variational Gaussian approximation
+# The Kalman filter for classification
 
 ## Object
 
