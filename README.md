@@ -8,7 +8,7 @@ This is the companion code for the paper "Recursive variational gaussian approxi
 - Generation of synthetic datas for the linear and logistic regression problem.
         
 ### [[Part2]][2] Part 2: Linear regression 
-- The linear Kalman filter and equivalence with the online Newton.
+- Warm up on linear regression: introducing the linear Kalman filter and equivalence with the online Newton.
         
 ### [[Part3]][3] Part 3: Logistic Regression
 - The extended Kalman filter and equivalence with the online Natural gradient.
