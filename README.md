@@ -2,7 +2,7 @@
 
 ## Object
 
-This is the companion code for the paper "Recursive variational gaussian approximation (R-VGA)". The code is available in python here. To reproduce some results just run .... To go further on this subject, a set of tutorial is also available just bellow. This tutorial introduce progressively our algorithm through the kalman filtering approach for classification. 
+This is the companion code for the paper "Recursive variational gaussian approximation (R-VGA)". The code is available in python here. To reproduce some results just run .... To go further on this subject, a set of tutorial is also available just bellow. This tutorial introduce progressively our algorithm through the Kalman filtering approach for classification. 
 
 ### [[Part1]][1] Part 1: Data generation
 - Generation of synthetic datas for the linear and logistic regression problem.
