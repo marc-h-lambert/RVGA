@@ -1,4 +1,4 @@
-# Classification
+# The recusrive variational Gaussian approximation
 
 ## Object
 
