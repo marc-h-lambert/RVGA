@@ -1,4 +1,4 @@
-# The Kalman filter for classification
+# The Recursive variational gaussian approximation (R-VGA)
 
 ## Object
 
