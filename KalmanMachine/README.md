@@ -2,4 +2,4 @@
 
 ## Object
 
-A library to assess Bayesian sequentiual algorithms based on the Kalman filtering framework.
+A library to assess Bayesian sequential algorithms based on the Kalman filtering framework.
