@@ -8,4 +8,4 @@ This is the companion code for the paper \[1\]. The source of the library "Kalma
 [1]: ./KTestGenerators.py
 [2]: ./Tutorial/README.md
 
-\[1\] "Recursive variational gaussian approximation (R-VGA)", ArxIv
+\[1\] "Recursive variational gaussian approximation (R-VGA), Marc Lambert, Silvere Bonnabel and Francis Bach. (To publish)"
