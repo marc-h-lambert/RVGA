@@ -2,10 +2,8 @@ import numpy.linalg as LA
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-from KalmanMachineLib.KDataGenerator import LinearRegObservations,LogisticRegObservations
-from KalmanMachineLib.KEvaluation import LinearRegEvaluation, LogisticRegEvaluation
-from OldLib.DataGenerator import LMS_data_generator, BiModal_data_generator
-from OldLib.Evaluation import LMSLoss, LogLoss, LogScore
+from KalmanMachine.KDataGenerator import LinearRegObservations,LogisticRegObservations
+from KalmanMachine.KEvaluation import LinearRegEvaluation, LogisticRegEvaluation
 
      ###################### TEST LINEAR REG ########################
 def testLinReg():
@@ -49,18 +47,9 @@ def testLogReg():
     RegObs2=LogisticRegObservations(meansShift,N,d,c,seed,scale=1,rotate=False,normalize=False)
     Y,U=RegObs2.datas
     
-    print(U[0:10,0:2])
     #print('the optimal is:\n',RegObs2.optim)
     loss=LogisticRegEvaluation.loss(Y,U,RegObs2.optim)
     score=LogisticRegEvaluation.score(Y,U,RegObs2.optim)
-    print('The loss for the optimal is ',loss)
-    print('The percent of well classified datas is',score)
-   
-    Y,U,x_opt=BiModal_data_generator(N,d,c,meansShift,seed=seed,covarianceInputs='isotropic')
-    print(U[0:10,0:2])
-    #print('the optimal is:\n',x_opt)
-    loss=LogLoss(Y,U,x_opt)
-    score=LogScore(Y,U,x_opt)
     print('The loss for the optimal is ',loss)
     print('The percent of well classified datas is',score)
     
