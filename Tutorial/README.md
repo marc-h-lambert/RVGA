@@ -20,6 +20,4 @@ This tutorial introduce progressively the Kalman filtering approach for classifi
 
 Tutorial are written in jupyter notebook. You can read them from Git Hub but if you want to run the code you need to install locally jupyter notebook https://jupyter.org/ and download the tutorial files (.ipynb). The code of the Tutorial is also  available in the Kalman4ClassifLibrary. To test this library run...
 
-#[1]: Kalman4Classification_Part1.ipynb
-#[2]: Kalman4Classification_Part2.ipynb
-#[3]: Kalman4Classification_Part3.ipynb
+
