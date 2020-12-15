@@ -3,17 +3,17 @@
 ## Object
 This tutorial introduce progressively the Kalman filtering approach for classification. 
 
-### [[Part1]][1] Part 1: Data generation
+### Part 1: Data generation
 - Generation of synthetic datas for the linear and logistic regression problem.
         
-### [[Part2]][2] Part 2: Linear regression 
+### Part 2: Linear regression 
 - Warm up on linear regression: introduce the linear Kalman filter and equivalence with the online Newton.
         
-### [[Part3]][3] Part 3: Logistic Regression
+### Part 3: Logistic Regression
 - The extended Kalman filter and equivalence with the online Natural gradient.
 - The quadratic Kalman filter.
         
-### [Part4] Part 4: the R-VGA approach
+### Part 4: the R-VGA approach
 - The recursive variational Gaussian approximation.
 
 ## Ressources
