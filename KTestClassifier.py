@@ -1,7 +1,7 @@
 import numpy as np
-from KalmanMachineLib.KDataGenerator import LogisticRegObservations
-from KalmanMachineLib.Kalman4LogisticReg import EKFLogisticRegression
-from KalmanMachineLib.KEvaluation import LogisticRegEvaluation
+from KalmanMachine.KDataGenerator import LogisticRegObservations
+from KalmanMachine.Kalman4LogisticReg import EKFLogisticRegression
+from KalmanMachine.KEvaluation import LogisticRegEvaluation
 
 if __name__=="__main__":
     N=10
