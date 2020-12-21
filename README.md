@@ -18,4 +18,4 @@ To go further on this subject, a set of tutorial is also available [here][3] (no
 [2]: ./PaperResults.py
 [3]: ./Tutorial/README.md
 
-\[1\]. "Recursive variational gaussian approximation (R-VGA), Marc Lambert, Silvere Bonnabel and Francis Bach". 
+\[1\]: "Recursive variational gaussian approximation (R-VGA), Marc Lambert, Silvere Bonnabel and Francis Bach". 
