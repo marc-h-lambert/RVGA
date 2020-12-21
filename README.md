@@ -2,7 +2,7 @@
 
 ## Object
 
-This is the companion code for the paper \[1\]. Please cite this paper if we use our code.  
+This is the companion code for the paper \[1\]. Please cite this paper if you use this code.  
 
 ## Installation
 The code is available in python, we use the standard library and the "scipy" library to use optimization. If not available on your distribution, you may install scipy following https://www.scipy.org/install.html.
