@@ -1,6 +1,6 @@
 # The Kalman machine library
 
-## Object
+## python files
 
 A library to assess Bayesian sequential algorithms based on the Kalman filtering framework.
 
