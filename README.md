@@ -5,7 +5,7 @@
 This is the companion code for the paper \[1\]. Please cite this paper if you use this code.  
 
 ## Installation
-The code is available in python using the standard library. We depends on the "scipy" library for optimization, we use the scipy powell method to compute the implicit scheme and the l-bfgs method to compute the maximum posterior for Laplace approximation. If not available on your distribution, you may install scipy following https://www.scipy.org/install.html.
+The code is available in python using the standard library. We depends on the "scipy" library for optimization, we use the scipy powell method to compute the implicit scheme and the l-bfgs method to compute the scipy maximum posterior for Laplace approximation. If not available on your distribution, you may install scipy following https://www.scipy.org/install.html.
 
 ## python files
 The source of the library "Kalman Machine" which implement the assesed algorithms is available in python [here][0]. To test this library on an exemple case, run [TestKalmanMachine][1]. To reproduce the results of the paper run [PaperResults][2]. 
