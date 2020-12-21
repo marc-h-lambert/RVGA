@@ -18,7 +18,7 @@ This tutorial introduce progressively the Kalman filtering approach for classifi
 
 ## Ressources
 
-Tutorial are written in jupyter notebook. You can read them from Git Hub but if you want to run the code you need to install locally jupyter notebook https://jupyter.org/ and download the tutorial files (.ipynb). The code of the Tutorial is also  available [here][1]. 
+Tutorial are written in jupyter notebook. You can read them from Git Hub but if you want to run the code you need to install locally jupyter notebook https://jupyter.org/ and download the tutorial files (.ipynb). The code of the Tutorial is also  available ![here][1]. 
 
 [1] ../Readme.md
 
