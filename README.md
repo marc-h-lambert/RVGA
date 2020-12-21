@@ -2,7 +2,7 @@
 
 ## Object
 
-This is the companion code for the paper \[1\]. 
+This is the companion code for the paper "Recursive variational gaussian approximation (R-VGA), Marc Lambert, Silvere Bonnabel and Francis Bach". 
 
 ## Installation
 The code is available in python, we use the standard library and the "scipy" library to use optimization. If not available on your distribution, you may install scipy following https://www.scipy.org/install.html.
@@ -18,4 +18,3 @@ To go further on this subject, a set of tutorial is also available [here][3] (no
 [2]: ./PaperResults.py
 [3]: ./Tutorial/README.md
 
-\[1\] "Recursive variational gaussian approximation (R-VGA), Marc Lambert, Silvere Bonnabel and Francis Bach."
