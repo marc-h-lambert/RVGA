@@ -1,11 +1,6 @@
 """
 Python for latex
 """
-import matplotlib.pyplot as plt
-plt.style.use('./latexStyle.mplstyle')
-import os
-os.environ["PATH"] += os.pathsep + '/usr/local/texlive/2020/bin/x86_64-darwin'
-
 def set_size(width=453, fraction=1, twoColumns=False, ratio=1):
     """ Set aesthetic figure dimensions to avoid scaling in latex.
 
@@ -29,7 +24,7 @@ def set_size(width=453, fraction=1, twoColumns=False, ratio=1):
 
     # Golden ratio to set aesthetic figure height
     if twoColumns:
-        golden_ratio = ratio*(5 ** 0.5 - 1) / 4
+        golden_ratio = ratio*(5 ** 0.5 - 1) 
     else:
         golden_ratio = ratio*(5 ** 0.5 - 1) / 2
 
