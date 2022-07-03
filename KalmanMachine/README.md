@@ -1,4 +1,4 @@
-# The Kalman machine library
+# The Kalman machine library (v1)
 
 ## python files
 
