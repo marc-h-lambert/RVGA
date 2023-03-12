@@ -17,6 +17,6 @@ To go further on this subject, a set of tutorial will be available [here][3] (no
 [1]: ./TestKalmanMachine.py
 [2]: ./PaperResults.py
 [3]: ./Tutorial/README.md
-[4]: https://hal.inria.fr/hal-03086627 
+[4]: https://hal.inria.fr/hal-03086627v2/document
 
 \[1\]: ["Recursive variational gaussian approximation (R-VGA), Marc Lambert, Silvere Bonnabel and Francis Bach".][4] 
